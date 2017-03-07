@@ -11,5 +11,5 @@ extensions:
   graph:
     steps:
       g:
-        x: 172
-        y: 93
+        x: 230
+        y: 240
