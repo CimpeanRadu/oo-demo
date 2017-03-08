@@ -25,5 +25,5 @@ extensions:
           y: 26
       FAILURE:
         9f8ea8a0-83ff-ef40-c803-040acc6a53c5:
-          x: 129
-          y: 49
+          x: 147
+          y: 75
