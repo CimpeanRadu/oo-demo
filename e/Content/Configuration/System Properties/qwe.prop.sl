@@ -1,3 +1,3 @@
 namespace: ''
 properties:
-  - ud1: ''
+  - aaa: ''
