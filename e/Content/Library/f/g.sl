@@ -2,11 +2,11 @@ namespace: f
 flow:
   name: g
   results:
-    - FAILURE
+    - CUSTOM
 extensions:
   graph:
     results:
-      FAILURE:
-        684117d3-60b2-0dd0-b81e-c4789a982b49:
-          x: 42
-          y: 85
+      CUSTOM:
+        8ab23af1-a6e2-2383-e9ca-4d0b9a74b36f:
+          x: 97
+          y: 45
