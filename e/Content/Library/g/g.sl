@@ -12,6 +12,6 @@ extensions:
           x: 76
           y: 149
       FAILURE:
-        6435a4f8-6b98-64c9-3495-09c1cae5a9a8:
-          x: 244
-          y: 41
+        e6444943-8339-fffa-161d-a5a562ace0ff:
+          x: 22
+          y: 49
