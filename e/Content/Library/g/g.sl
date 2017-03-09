@@ -2,11 +2,11 @@ namespace: g
 flow:
   name: g
   results:
-    - SUCCESS
+    - FAILURE
 extensions:
   graph:
     results:
-      SUCCESS:
-        a0247233-fffa-1e09-e8f7-0475b1d5308d:
-          x: 77
-          y: 126
+      FAILURE:
+        d233067b-139f-1beb-9d98-8b2dac28c470:
+          x: 50
+          y: 33
