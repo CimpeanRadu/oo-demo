@@ -20,8 +20,8 @@ extensions:
   graph:
     steps:
       compare_numbers:
-        x: 722
-        y: 307
+        x: 158
+        y: 192
         navigate:
           4fd38855-21c9-3751-6e98-3ad81937b6d3:
             targetId: 6cfc2d44-7600-4f17-4d4e-c0f5dbf536da
@@ -39,9 +39,9 @@ extensions:
           y: 116.66666666666667
       SAME:
         da19ee0c-ccaf-7109-a337-0a8917bdc4e9:
-          x: 497
-          y: 282
+          x: 616
+          y: 148
       FAILURE:
         610cb0a2-9754-5b96-307f-fff7e2648b06:
-          x: 400
-          y: 583.3333333333334
+          x: 434
+          y: 228
