@@ -20,8 +20,8 @@ extensions:
   graph:
     steps:
       compare_numbers:
-        x: 100
-        y: 350
+        x: 722
+        y: 307
         navigate:
           4fd38855-21c9-3751-6e98-3ad81937b6d3:
             targetId: 6cfc2d44-7600-4f17-4d4e-c0f5dbf536da
