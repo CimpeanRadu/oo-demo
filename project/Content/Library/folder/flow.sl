@@ -20,28 +20,28 @@ extensions:
   graph:
     steps:
       compare_numbers:
-        x: 722
-        y: 307
+        x: 100
+        y: 350
         navigate:
-          4fd38855-21c9-3751-6e98-3ad81937b6d3:
-            targetId: 6cfc2d44-7600-4f17-4d4e-c0f5dbf536da
+          21bf0a01-7949-775f-77c7-504bd8d56ae3:
+            targetId: 98af1ce0-d37f-0a44-04f6-dcc53bb8672f
             port: GREATER_THAN
-          b525a829-43d6-8016-4181-b674816df27e:
-            targetId: da19ee0c-ccaf-7109-a337-0a8917bdc4e9
+          0ec1d81e-ab3a-51bc-2075-b8c7180a5937:
+            targetId: 08533bd2-2d8c-6861-5a9e-97e24639d554
             port: EQUALS
-          59d6f423-9898-f982-9494-7d478b2986cf:
-            targetId: 610cb0a2-9754-5b96-307f-fff7e2648b06
+          acb21ebf-3e37-806a-45b2-17d6076ca3ff:
+            targetId: bb3aaa2e-4db9-2267-12a5-f419fca8c842
             port: LESS_THAN
     results:
       SUCCESS:
-        6cfc2d44-7600-4f17-4d4e-c0f5dbf536da:
+        98af1ce0-d37f-0a44-04f6-dcc53bb8672f:
           x: 400
           y: 116.66666666666667
       SAME:
-        da19ee0c-ccaf-7109-a337-0a8917bdc4e9:
-          x: 497
-          y: 282
+        08533bd2-2d8c-6861-5a9e-97e24639d554:
+          x: 400
+          y: 350
       FAILURE:
-        610cb0a2-9754-5b96-307f-fff7e2648b06:
+        bb3aaa2e-4db9-2267-12a5-f419fca8c842:
           x: 400
           y: 583.3333333333334
