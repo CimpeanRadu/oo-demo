@@ -39,8 +39,8 @@ extensions:
           y: 116.66666666666667
       SAME:
         da19ee0c-ccaf-7109-a337-0a8917bdc4e9:
-          x: 400
-          y: 350
+          x: 497
+          y: 282
       FAILURE:
         610cb0a2-9754-5b96-307f-fff7e2648b06:
           x: 400
