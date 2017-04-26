@@ -1,7 +1,6 @@
 namespace: g
 flow:
-  name:
-    whyIsThisWorking
+  name: whyIsThisWorking
   workflow:
     - length:
         do:
@@ -18,11 +17,11 @@ extensions:
         x: 100
         y: 150
         navigate:
-          d95403fd-0530-759d-8369-eec7d3f9a8e5:
-            targetId: 910b5636-19de-628b-a1ad-468b1823d7c3
+          ea3dc350-77f5-4b9e-caf1-7b8fbd1bd580:
+            targetId: 1d8f8ffd-96ea-8010-919f-6d1dde74953f
             port: SUCCESS
     results:
       SUCCESS:
-        910b5636-19de-628b-a1ad-468b1823d7c3:
+        1d8f8ffd-96ea-8010-919f-6d1dde74953f:
           x: 400
           y: 150
