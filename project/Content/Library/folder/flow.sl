@@ -1,6 +1,6 @@
 namespace: folder
 flow:
-  name: flow
+  name: flow12345
   workflow:
     - length:
         do:
