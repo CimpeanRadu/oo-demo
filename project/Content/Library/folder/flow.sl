@@ -14,7 +14,7 @@ extensions:
   graph:
     steps:
       length:
-        x: 100
+        x: 150
         y: 150
         navigate:
           83718787-ebc3-612f-a2c7-dc8cf068bad1:
