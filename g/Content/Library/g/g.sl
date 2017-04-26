@@ -1,6 +1,7 @@
 namespace: g
 flow:
-  name: g
+  name:
+    whyIsThisWorking
   workflow:
     - length:
         do:
