@@ -5,7 +5,7 @@
 ########################################################################################################################
 namespace: sd
 flow:
-  name: flow
+  name: flow2
   inputs:
     - input:
         default: ''
@@ -32,8 +32,8 @@ extensions:
   graph:
     steps:
       length:
-        x: 100
-        y: 150
+        x: 110
+        y: 206
         navigate:
           c74469e5-585d-8c86-eaa8-58f4aadec4ae:
             targetId: 145e75c6-459c-9601-f92d-c1b35d29a015
