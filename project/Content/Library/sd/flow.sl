@@ -32,14 +32,14 @@ extensions:
   graph:
     steps:
       length:
-        x: 109
-        y: 243
+        x: 100
+        y: 150
         navigate:
-          fb516068-ef92-8355-5372-bf8699a66e93:
-            targetId: ac5a68a4-e0ae-3782-5a07-947c751e7e97
+          c74469e5-585d-8c86-eaa8-58f4aadec4ae:
+            targetId: 145e75c6-459c-9601-f92d-c1b35d29a015
             port: SUCCESS
     results:
       SUCCESS:
-        ac5a68a4-e0ae-3782-5a07-947c751e7e97:
+        145e75c6-459c-9601-f92d-c1b35d29a015:
           x: 400
           y: 150
