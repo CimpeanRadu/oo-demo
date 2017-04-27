@@ -14,8 +14,8 @@ extensions:
   graph:
     steps:
       length:
-        x: 127
-        y: 213
+        x: 22
+        y: 94
         navigate:
           d95403fd-0530-759d-8369-eec7d3f9a8e5:
             targetId: 910b5636-19de-628b-a1ad-468b1823d7c3
