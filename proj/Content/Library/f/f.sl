@@ -5,13 +5,11 @@ flow:
     - g:
         do:
           f.g.g: []
-        navigate:
-          - FAILURE: on_failure
-  results:
-    - FAILURE
+        navigate: []
+  results: []
 extensions:
   graph:
     steps:
       g:
-        x: 270
-        y: 192
+        x: 204
+        y: 155

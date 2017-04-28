@@ -2,23 +2,21 @@ namespace: f.g
 flow:
   name: g
   workflow:
-    - length:
+    - f:
         do:
-          io.cloudslang.base.lists.length: []
-        navigate:
-          - FAILURE: on_failure
-    - length_1:
-        do:
-          io.cloudslang.base.strings.length: []
+          f.f: []
         navigate: []
-  results:
-    - FAILURE
+    - g:
+        do:
+          f.g.g: []
+        navigate: []
+  results: []
 extensions:
   graph:
     steps:
-      length:
-        x: 43
-        y: 194
-      length_1:
-        x: 30
-        y: 372
+      f:
+        x: 164
+        y: 87
+      g:
+        x: 45
+        y: 164
