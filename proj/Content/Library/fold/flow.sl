@@ -22,5 +22,5 @@ extensions:
     results:
       SUCCESS:
         5dea5e79-ed30-4d18-566c-c140c0d5e26c:
-          x: 198
-          y: 421
+          x: 291
+          y: 134
