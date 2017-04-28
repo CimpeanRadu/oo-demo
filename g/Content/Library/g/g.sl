@@ -1,6 +1,6 @@
 namespace: g
 flow:
-  name: whyIsThisWorking..fasdasdasd@@@eqweqwe
+  name: g
   workflow:
     - length:
         do:
