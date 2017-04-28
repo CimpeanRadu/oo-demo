@@ -17,11 +17,11 @@ extensions:
   graph:
     steps:
       f:
-        x: 373
-        y: 185
+        x: 81
+        y: 195
       g:
-        x: 116
-        y: 225
+        x: 65
+        y: 74
     results:
       FAILURE:
         ad080a2b-f1d6-5c4f-9c8f-81d3ca735fb3:
