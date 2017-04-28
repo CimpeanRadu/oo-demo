@@ -13,5 +13,5 @@ extensions:
   graph:
     steps:
       length:
-        x: 231
-        y: -31
+        x: 219
+        y: 56
