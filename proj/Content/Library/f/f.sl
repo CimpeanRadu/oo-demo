@@ -13,5 +13,5 @@ extensions:
   graph:
     steps:
       parse_date:
-        x: 82
-        y: 134
+        x: 140
+        y: 247
