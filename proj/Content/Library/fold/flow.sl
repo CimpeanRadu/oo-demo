@@ -4,28 +4,23 @@ flow:
   workflow:
     - length:
         do:
-          io.cloudslang.base.lists.length: []
+          io.cloudslang.base.strings.length: []
         navigate:
-          - SUCCESS: SUCCESS
-          - FAILURE: on_failure
+          - SUCCESS: CUSTOM
   results:
-    - FAILURE
-    - SUCCESS
+    - CUSTOM
 extensions:
   graph:
     steps:
       length:
-        x: 65
-        y: 136
+        x: 30
+        y: 173
         navigate:
-          ead6e5ee-410f-6b1f-7621-c0d99970ab53:
-            targetId: 92559fc2-b572-7fd3-4fa3-207f5fb1d750
+          44848881-ca24-01e1-4d72-a1325d57fbb3:
+            targetId: f33d8228-f093-b7a2-869e-3991d457634e
             port: SUCCESS
-            vertices:
-              - x: 138
-                y: 213
     results:
-      SUCCESS:
-        92559fc2-b572-7fd3-4fa3-207f5fb1d750:
-          x: 91
-          y: 333
+      CUSTOM:
+        f33d8228-f093-b7a2-869e-3991d457634e:
+          x: 185
+          y: 185
