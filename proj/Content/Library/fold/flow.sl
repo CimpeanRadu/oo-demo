@@ -13,8 +13,8 @@ extensions:
   graph:
     steps:
       flow:
-        x: 174
-        y: 381
+        x: 160
+        y: 145
         navigate:
           c9ad869d-83e6-8380-b12a-e9fcd966a834:
             targetId: 5dea5e79-ed30-4d18-566c-c140c0d5e26c
