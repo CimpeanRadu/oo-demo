@@ -23,8 +23,8 @@ extensions:
   graph:
     steps:
       f:
-        x: 100
-        y: 159
+        x: 168
+        y: 183
       f_1:
         x: 216
         y: 369
