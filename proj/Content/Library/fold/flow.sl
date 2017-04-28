@@ -13,8 +13,8 @@ extensions:
   graph:
     steps:
       flow:
-        x: 14
-        y: 217
+        x: 191
+        y: 426
         navigate:
           c9ad869d-83e6-8380-b12a-e9fcd966a834:
             targetId: 5dea5e79-ed30-4d18-566c-c140c0d5e26c
@@ -22,5 +22,5 @@ extensions:
     results:
       SUCCESS:
         5dea5e79-ed30-4d18-566c-c140c0d5e26c:
-          x: 181
-          y: 212
+          x: 198
+          y: 421
