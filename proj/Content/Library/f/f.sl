@@ -2,11 +2,11 @@ namespace: f
 flow:
   name: f
   results:
-    - SUCCESS
+    - CUSTOM
 extensions:
   graph:
     results:
-      SUCCESS:
-        36e7e313-29d2-992d-d96f-539161b3e6cd:
-          x: 128
-          y: 93
+      CUSTOM:
+        cbf88b24-d3f2-de33-154f-0b59b4b84fed:
+          x: 250
+          y: 246
