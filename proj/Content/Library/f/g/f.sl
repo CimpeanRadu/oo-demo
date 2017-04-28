@@ -1,4 +1,4 @@
 namespace: f.g
 flow:
-  name: g
+  name: f
   results: []
