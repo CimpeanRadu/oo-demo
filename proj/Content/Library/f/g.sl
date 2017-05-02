@@ -24,8 +24,8 @@ extensions:
     results:
       FAILURE:
         a940c79f-de6c-fb1f-45ad-d3fe1553d47b:
-          x: 126
-          y: 99
+          x: 311
+          y: 207
       SUCCESS:
         1a86c18b-ff7b-276d-88fb-722da98099e9:
           x: 254
