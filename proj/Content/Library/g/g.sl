@@ -18,5 +18,5 @@ extensions:
     results:
       FAILURE:
         ff87e46f-368b-8b9f-3c14-33e1ba96b8b4:
-          x: 51
-          y: 104
+          x: 102
+          y: 106
