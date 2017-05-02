@@ -6,6 +6,10 @@ flow:
         do:
           g.g: []
         navigate: []
+    - g_1:
+        do:
+          g.g: []
+        navigate: []
   results: []
 extensions:
   graph:
@@ -13,3 +17,6 @@ extensions:
       g:
         x: 202
         y: 107
+      g_1:
+        x: 8
+        y: 163
