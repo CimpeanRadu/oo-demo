@@ -2,7 +2,7 @@ namespace: g
 flow:
   name: gg
   workflow:
-    - gg:
+    - ee:
         do:
           g.gg: []
         navigate: []
@@ -10,6 +10,6 @@ flow:
 extensions:
   graph:
     steps:
-      gg:
-        x: 66
-        y: 138
+      ee:
+        x: 109
+        y: 172
