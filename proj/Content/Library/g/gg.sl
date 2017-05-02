@@ -6,10 +6,17 @@ flow:
         do:
           g.gg: []
         navigate: []
+    - gg_1:
+        do:
+          g.gg: []
+        navigate: []
   results: []
 extensions:
   graph:
     steps:
       gg:
-        x: 66
-        y: 138
+        x: 91
+        y: 177
+      gg_1:
+        x: 150
+        y: 76
