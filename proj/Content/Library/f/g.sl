@@ -2,9 +2,9 @@ namespace: f
 flow:
   name: g
   workflow:
-    - f:
+    - g:
         do:
-          f.f: []
+          f.g: []
         navigate:
           - FAILURE: on_failure
   results:
@@ -12,6 +12,11 @@ flow:
 extensions:
   graph:
     steps:
-      f:
-        x: 82
-        y: 129
+      g:
+        x: 26
+        y: 303
+    results:
+      FAILURE:
+        a940c79f-de6c-fb1f-45ad-d3fe1553d47b:
+          x: 122
+          y: 152
