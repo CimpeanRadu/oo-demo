@@ -24,5 +24,5 @@ extensions:
     results:
       SUCCESS:
         3db35d09-b4ba-db95-c0ed-ef6e98fe129e:
-          x: 74
-          y: 174
+          x: 278
+          y: 103
