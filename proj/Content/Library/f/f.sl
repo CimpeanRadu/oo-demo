@@ -13,14 +13,14 @@ extensions:
   graph:
     steps:
       f:
-        x: 25
-        y: 198
+        x: 100
+        y: 150
         navigate:
-          e2f5f283-3f4f-977f-438b-c2a38170c044:
-            targetId: efb2a5f0-d600-3067-43a2-d58071a993ce
+          056027fe-0d05-759b-4585-6afe271928ff:
+            targetId: 4868d9eb-329c-0814-18c6-d488bb4f756b
             port: SUCCESS
     results:
       SUCCESS:
-        efb2a5f0-d600-3067-43a2-d58071a993ce:
-          x: 130
-          y: 202
+        4868d9eb-329c-0814-18c6-d488bb4f756b:
+          x: 400
+          y: 150
