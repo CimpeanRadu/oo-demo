@@ -2,14 +2,14 @@ namespace: g
 flow:
   name: ee
   workflow:
-    - ee:
+    - g:
         do:
-          g.ee: []
+          g.g: []
         navigate: []
   results: []
 extensions:
   graph:
     steps:
-      ee:
-        x: 118
-        y: 169
+      g:
+        x: 202
+        y: 107
