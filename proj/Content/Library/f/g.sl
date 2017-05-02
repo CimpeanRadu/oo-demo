@@ -15,8 +15,8 @@ extensions:
   graph:
     steps:
       g:
-        x: 20
-        y: 189
+        x: 120
+        y: 203
         navigate:
           cb94b809-85ee-1cdc-0fcf-68cf7100f691:
             targetId: 1a86c18b-ff7b-276d-88fb-722da98099e9
@@ -24,8 +24,8 @@ extensions:
     results:
       FAILURE:
         a940c79f-de6c-fb1f-45ad-d3fe1553d47b:
-          x: 258
-          y: 149
+          x: 126
+          y: 99
       SUCCESS:
         1a86c18b-ff7b-276d-88fb-722da98099e9:
           x: 254
