@@ -6,22 +6,21 @@ flow:
         do:
           f.f: []
         navigate:
-          - FAILURE: on_failure
+          - SUCCESS: SUCCESS
   results:
     - SUCCESS
-    - FAILURE
 extensions:
   graph:
     steps:
       f:
-        x: 87
-        y: 132
+        x: 370
+        y: 182
+        navigate:
+          e2f5f283-3f4f-977f-438b-c2a38170c044:
+            targetId: efb2a5f0-d600-3067-43a2-d58071a993ce
+            port: SUCCESS
     results:
       SUCCESS:
         efb2a5f0-d600-3067-43a2-d58071a993ce:
-          x: 100
-          y: 190
-      FAILURE:
-        7abafcc6-7b92-04fa-dad4-04976431b424:
-          x: 100
-          y: 98
+          x: 130
+          y: 202
