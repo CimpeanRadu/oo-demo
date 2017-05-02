@@ -20,8 +20,8 @@ extensions:
   graph:
     steps:
       g:
-        x: 150
-        y: 146
+        x: 45
+        y: 166
       g_1:
         x: 269
         y: 339
