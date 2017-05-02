@@ -14,8 +14,8 @@ extensions:
   graph:
     steps:
       f:
-        x: 146
-        y: 396
+        x: 30
+        y: 368
     results:
       SUCCESS:
         0cfe8531-c7b6-c59e-5a42-5857f17d796c:
@@ -23,5 +23,5 @@ extensions:
           y: 156
       FAILURE:
         2e6b3d8e-56d7-d5b8-24e8-dcaeeaa2c887:
-          x: 106
-          y: 271
+          x: 394
+          y: 269
