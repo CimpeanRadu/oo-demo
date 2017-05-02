@@ -23,5 +23,5 @@ extensions:
           y: 156
       FAILURE:
         2e6b3d8e-56d7-d5b8-24e8-dcaeeaa2c887:
-          x: 120
-          y: 216
+          x: 84
+          y: 224
