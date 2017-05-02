@@ -2,14 +2,24 @@ namespace: f
 flow:
   name: gggg
   workflow:
-    - gggg:
+    - g:
         do:
-          f.gggg: []
-        navigate: []
-  results: []
+          f.g: []
+        navigate:
+          - FAILURE: on_failure
+    - g_1:
+        do:
+          f.g: []
+        navigate:
+          - FAILURE: on_failure
+  results:
+    - FAILURE
 extensions:
   graph:
     steps:
-      gggg:
-        x: 96
-        y: 199
+      g:
+        x: 150
+        y: 146
+      g_1:
+        x: -29
+        y: 126
