@@ -1,15 +1,15 @@
 namespace: g
 flow:
-  name: ee
+  name: f
   workflow:
-    - g:
+    - f:
         do:
-          g.g: []
+          g.f: []
         navigate: []
   results: []
 extensions:
   graph:
     steps:
-      g:
-        x: 202
-        y: 107
+      f:
+        x: 186
+        y: 106
