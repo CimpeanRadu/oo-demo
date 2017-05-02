@@ -4,14 +4,12 @@ flow:
   workflow:
     - g:
         do:
-          f.g: []
-        navigate:
-          - FAILURE: on_failure
-  results:
-    - FAILURE
+          f.g.g: []
+        navigate: []
+  results: []
 extensions:
   graph:
     steps:
       g:
-        x: 171
-        y: 182
+        x: 86
+        y: 125
