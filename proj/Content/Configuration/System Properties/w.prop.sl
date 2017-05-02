@@ -1,4 +1,4 @@
 namespace: ''
 properties:
-  - eee: ''
+  - eee2: ''
   - e: ''
