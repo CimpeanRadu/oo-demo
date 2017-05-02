@@ -15,8 +15,8 @@ extensions:
   graph:
     steps:
       g:
-        x: 73
-        y: 287
+        x: 41
+        y: 70
         navigate:
           dea7dd7d-2238-59ff-cf42-b713458cb9ac:
             targetId: 3db35d09-b4ba-db95-c0ed-ef6e98fe129e
