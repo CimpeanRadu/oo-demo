@@ -8,5 +8,5 @@ extensions:
     results:
       FAILURE:
         a6b1616a-1375-beaf-7368-608c6fc2038e:
-          x: 50
-          y: 74
+          x: 90
+          y: 140
