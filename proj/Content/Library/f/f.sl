@@ -22,5 +22,5 @@ extensions:
     results:
       CUSTOM:
         3f34b0ba-c248-a0cf-5ffe-e7f69d5aa362:
-          x: 235
-          y: 91
+          x: 17
+          y: 287
