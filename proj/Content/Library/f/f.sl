@@ -1,21 +1,11 @@
 namespace: f
 flow:
   name: f
-  workflow:
-    - f:
-        do:
-          f.f: []
-        navigate:
-          - FAILURE: on_failure
   results:
     - SUCCESS
     - FAILURE
 extensions:
   graph:
-    steps:
-      f:
-        x: 38
-        y: 264
     results:
       SUCCESS:
         6bbbf820-f6d4-5971-775f-40071448b243:
