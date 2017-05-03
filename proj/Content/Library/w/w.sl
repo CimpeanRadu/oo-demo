@@ -8,5 +8,5 @@ extensions:
     results:
       FAILURE:
         a40d6c6b-4109-277b-3f06-2f53ef1788b7:
-          x: 185
-          y: 131
+          x: 147
+          y: 144
