@@ -15,8 +15,8 @@ extensions:
   graph:
     steps:
       e:
-        x: 36
-        y: 116
+        x: 62
+        y: 130
       w:
         x: 0
         y: 251
