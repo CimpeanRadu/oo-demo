@@ -1,12 +1,15 @@
 namespace: w
 flow:
   name: w
-  results:
-    - FAILURE
+  workflow:
+    - w:
+        do:
+          w.w: []
+        navigate: []
+  results: []
 extensions:
   graph:
-    results:
-      FAILURE:
-        a40d6c6b-4109-277b-3f06-2f53ef1788b7:
-          x: 185
-          y: 131
+    steps:
+      w:
+        x: 87
+        y: 291
