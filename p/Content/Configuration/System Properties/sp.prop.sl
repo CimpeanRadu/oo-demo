@@ -1,3 +1,0 @@
-namespace: ''
-properties:
-  - SysProp1: ''
