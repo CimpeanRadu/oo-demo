@@ -11,5 +11,5 @@ extensions:
   graph:
     steps:
       w:
-        x: 15
-        y: 67
+        x: 90
+        y: 158
