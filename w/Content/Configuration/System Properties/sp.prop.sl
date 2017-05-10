@@ -1,2 +1,4 @@
 namespace: ''
-properties: []
+properties:
+  - SysProp1: ''
+  - SysProp2: ''
