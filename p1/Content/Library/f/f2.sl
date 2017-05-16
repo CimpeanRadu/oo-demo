@@ -4,7 +4,9 @@ flow:
   workflow:
     - qq:
         do:
-          f.f2: []
+          f.f2:
+            - input_0: null
+            - input_1: null
         navigate:
           - SUCCESS: rr
     - rr:
@@ -18,17 +20,17 @@ extensions:
   graph:
     steps:
       qq:
-        x: 37
-        y: 201
+        x: 100
+        y: 150
       rr:
-        x: 148
-        y: 336
+        x: 400
+        y: 150
         navigate:
-          47ea2959-61b2-6a1f-64bb-513c264bb097:
-            targetId: b8b8ee06-d40d-450e-1324-e47b13b8291d
+          d5502511-8086-6431-c314-476f39ecd7fc:
+            targetId: 26eabe27-0b4c-f54d-fe4e-5a23a206df76
             port: SUCCESS
     results:
       SUCCESS:
-        b8b8ee06-d40d-450e-1324-e47b13b8291d:
-          x: 210
-          y: 172
+        26eabe27-0b4c-f54d-fe4e-5a23a206df76:
+          x: 700
+          y: 150
