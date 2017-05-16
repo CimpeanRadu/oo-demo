@@ -2,11 +2,15 @@ namespace: ssh_flow
 flow:
   name: ssh_flow
   inputs:
-    - host
+    - host: "${get_sp('io.cloudslang.base.from')}"
     - port
-    - command
-    - username
-    - password
+    - command:
+        default: "${get_sp('io.cloudslang.base.from')}"
+        required: false
+    - username: "${get_sp('io.cloudslang.base.hostname')}"
+    - password:
+        default: "${get_sp('io.cloudslang.base.network.keystore')}"
+        required: false
   workflow:
     - ssh_flow:
         do:
