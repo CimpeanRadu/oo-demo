@@ -1,15 +1,12 @@
 namespace: f
 flow:
   name: f2
-  workflow:
-    - f:
-        do:
-          f.f: []
-        navigate: []
-  results: []
+  results:
+    - SUCCESS
 extensions:
   graph:
-    steps:
-      f:
-        x: 39
-        y: 156
+    results:
+      SUCCESS:
+        b8b8ee06-d40d-450e-1324-e47b13b8291d:
+          x: 210
+          y: 172
