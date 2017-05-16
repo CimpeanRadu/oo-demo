@@ -6,6 +6,8 @@ flow:
         do:
           Folder.Flow2:
             - input_0: null
+            - input_1: null
+            - input_2: null
         navigate:
           - SUCCESS: SUCCESS
   results:
@@ -14,8 +16,8 @@ extensions:
   graph:
     steps:
       Flow2:
-        x: 100
-        y: 150
+        x: 82
+        y: 63
         navigate:
           be16622b-9f3e-8e23-937a-df026e0f50dd:
             targetId: 162384f8-58cc-b768-d10d-b2304dd4bbd7
