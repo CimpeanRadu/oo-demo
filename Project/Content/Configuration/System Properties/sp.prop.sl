@@ -1,3 +1,5 @@
 namespace: ''
 properties:
-  - hostname: '123'
+  - '2': '123'
+  - SysProp1: ''
+  - SysProp2: ''
