@@ -18,6 +18,12 @@ flow:
             - password:
                 value: '${password}'
                 sensitive: true
+        publish:
+          - host
+          - port
+          - command
+          - username
+          - password
         navigate:
           - SUCCESS: SUCCESS
           - FAILURE: on_failure
