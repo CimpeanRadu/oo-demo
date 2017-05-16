@@ -2,14 +2,12 @@ namespace: f
 flow:
   name: f2
   workflow:
-    - qq:
+    - Step2:
         do:
-          f.f2:
-            - input_0: null
-            - input_1: null
+          f.f2: []
         navigate:
-          - SUCCESS: rr
-    - rr:
+          - SUCCESS: '111'
+    - '111':
         do:
           f.f2: []
         navigate:
@@ -19,18 +17,18 @@ flow:
 extensions:
   graph:
     steps:
-      qq:
-        x: 100
-        y: 150
-      rr:
-        x: 400
-        y: 150
+      '111':
+        x: 148
+        y: 336
         navigate:
-          d5502511-8086-6431-c314-476f39ecd7fc:
-            targetId: 26eabe27-0b4c-f54d-fe4e-5a23a206df76
+          47ea2959-61b2-6a1f-64bb-513c264bb097:
+            targetId: b8b8ee06-d40d-450e-1324-e47b13b8291d
             port: SUCCESS
+      Step2:
+        x: 37
+        y: 201
     results:
       SUCCESS:
-        26eabe27-0b4c-f54d-fe4e-5a23a206df76:
-          x: 700
-          y: 150
+        b8b8ee06-d40d-450e-1324-e47b13b8291d:
+          x: 210
+          y: 172
