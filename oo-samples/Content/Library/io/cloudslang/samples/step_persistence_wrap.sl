@@ -4,7 +4,10 @@ flow:
   workflow:
     - Full_Step_Persistence:
         do_external:
-          4bbd79d4-3346-496c-8309-4a7e8ab100a3: []
+          4bbd79d4-3346-496c-8309-4a7e8ab100a3:
+            - input_0:
+                value: qeqweq
+                sensitive: true
         navigate:
           - success: SUCCESS
           - failure: FAILURE
