@@ -5,7 +5,8 @@ flow:
     - Manual:
         do_external:
           8ab18c7f-96b3-46cc-a5d9-3abccdf58700: []
-        navigate: []
+        navigate:
+          - CUSTOM: SUCCESS
   results:
     - SUCCESS
 extensions:
