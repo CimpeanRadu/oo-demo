@@ -29,8 +29,8 @@ extensions:
             targetId: 304ba248-11cd-ec9d-85a4-2fd83b4a3015
             port: SUCCESS
       sensitive_inputs:
-        x: 86
-        y: 99
+        x: 80
+        y: 274
     results:
       SUCCESS:
         304ba248-11cd-ec9d-85a4-2fd83b4a3015:
