@@ -25,8 +25,8 @@ extensions:
         x: 84
         y: 253
       length:
-        x: 249
-        y: 73
+        x: 270
+        y: 210
         navigate:
           d2af32a3-7ba5-757e-170c-1889486d3826:
             targetId: 304ba248-11cd-ec9d-85a4-2fd83b4a3015
