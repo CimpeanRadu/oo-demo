@@ -21,16 +21,16 @@ flow:
 extensions:
   graph:
     steps:
+      sensitive_inputs:
+        x: 86
+        y: 99
       length:
-        x: 249
-        y: 84
+        x: 211
+        y: 311
         navigate:
           d2af32a3-7ba5-757e-170c-1889486d3826:
             targetId: 304ba248-11cd-ec9d-85a4-2fd83b4a3015
             port: SUCCESS
-      sensitive_inputs:
-        x: 86
-        y: 99
     results:
       SUCCESS:
         304ba248-11cd-ec9d-85a4-2fd83b4a3015:
