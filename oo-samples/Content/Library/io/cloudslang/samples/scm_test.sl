@@ -22,11 +22,11 @@ extensions:
   graph:
     steps:
       sensitive_inputs:
-        x: 84
-        y: 253
+        x: 48
+        y: 106
       length:
-        x: 270
-        y: 210
+        x: 87
+        y: 314
         navigate:
           d2af32a3-7ba5-757e-170c-1889486d3826:
             targetId: 304ba248-11cd-ec9d-85a4-2fd83b4a3015
