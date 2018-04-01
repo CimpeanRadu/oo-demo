@@ -22,8 +22,8 @@ extensions:
   graph:
     steps:
       sensitive_inputs:
-        x: 86
-        y: 99
+        x: 84
+        y: 253
       length:
         x: 249
         y: 73
