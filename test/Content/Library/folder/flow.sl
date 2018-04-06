@@ -30,11 +30,11 @@ extensions:
   graph:
     steps:
       flow:
-        x: 173
-        y: 85
+        x: 361
+        y: 349
       generate_email:
-        x: 249
-        y: 227
+        x: 358
+        y: 128
     results:
       SUCCESS:
         c812eaa1-658f-33ae-3cf3-a0eb0d912cdc:
