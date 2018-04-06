@@ -1,6 +1,12 @@
 namespace: folder
 flow:
   name: flow
+  inputs:
+    - flow_input_0
+    - flow_input_1
+    - flow_input_2
+    - flow_input_3
+    - flow_input_4
   results:
     - SUCCESS
     - FAILURE
